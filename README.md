@@ -21,7 +21,8 @@
   <h2 >Hey, I'm Camille 😄 Here is a little bit about me:</h2>
 </div>
 
-- 🔭 __I’m currently working on:__ a Basketball Training 📱 App & Collaborating on a Daily Wellbeing 💻 App
+- 💼 __Current Role:__ Support Engineer 👩🏾‍💻
+- 🛠 __I’m currently working on:__ a Basketball Training 📱 App & Collaborating on a Daily Wellbeing 💻 App
 - 🌱 __I’m currently learning:__ AWS Developer Associate & React/React Native
 - 🤔 __I’m looking for help with:__ Creating an interactive Sports Tactic Board UI in React Native _([example here](https://apkpure.com/basketball-tactic-board/com.jenda.basketballboard))_
 - ⚡ __Fun fact:__ I'm a wood carver 🪓 and lapiary artist 💎⛏ in my spare time
